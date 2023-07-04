@@ -20,7 +20,7 @@ Los equipos con sistema operativo Windows utilizan diferentes tipos de hardware.
 
 En esta imagen podemos observar la arquitectura básica de Windows.
 
-<img src="/img/1ºimagenn.PNG" style="zoom:150%;" />
+<img src="/img/1ºimagenn.jpg" style="zoom:150%;" />
 
 
 
