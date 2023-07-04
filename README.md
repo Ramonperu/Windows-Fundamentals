@@ -80,7 +80,7 @@ El formateo de NTFS crea estructuras importantes en el disco:
 
 Definimos como **proceso de arranque o boot** a las **acciones que se producen** **entre** el momento en que se **pulsa el botón de encendido del ordenador** **hasta que Windows se carga** completamente.  
 
-<img src="/img/2ºimagenn.PNG" style="zoom:150%;" />
+<img src="/img/2ºimagenn.jpg" style="zoom:150%;" />
 
 Existen dos tipos de firmware informático para este boot:
 
@@ -203,7 +203,7 @@ Vamos a realizar la **exploración de un proceso activo** mediante la herramient
 
 <img src="/img/5ºimagenn.PNG" style="zoom:150%;" />
 
-La manera mas simple de encontrar un proceso activo es **la mira** de la barra superior <img src="/img/6ºimagenn.PNG" style="zoom: 80%;" />esta herramienta nos deja apuntar hacia una ventana para encontrar el proceso correspondiente a esta. Una vez ubicada **podemos matar el proceso con el boton derecho/boton DEL**, esto nos cerrara la ventana.
+La manera mas simple de encontrar un proceso activo es **la mira** de la barra superior <img src="/img/6ºimagenn.jpg" style="zoom: 80%;" />esta herramienta nos deja apuntar hacia una ventana para encontrar el proceso correspondiente a esta. Una vez ubicada **podemos matar el proceso con el boton derecho/boton DEL**, esto nos cerrara la ventana.
 
 <img src="/img/7ºimagenn.PNG" style="zoom:150%;" />
 
@@ -500,7 +500,7 @@ Para configurar un adaptador de red, elija "Cambiar la configuración del adapta
 
 Además de acceder a carpetas compartidas en hosts remotos, es posible iniciar sesión en un equipo remoto y controlar esa computadora como si estuvieras trabajando de forma local, lo que te permite realizar cambios de configuración, instalar software o solucionar problemas. En el entorno de Windows, esta función se logra mediante el uso del Protocolo de Escritorio Remoto (RDP). Cuando se investigan incidentes de seguridad, los analistas de seguridad suelen utilizar el RDP con frecuencia para acceder a equipos remotos. Para iniciar el RDP y establecer una conexión con un equipo remoto, simplemente busca "escritorio remoto" y haz clic en la aplicación.
 
-<img src="/img/23ºimagenn.PNG"  />
+<img src="/img/23ºimagenn.jpg"  />
 
 El formato de Convención de Nombres Universal (UNC) se utiliza para conectarse a los recursos, por ejemplo:
 
